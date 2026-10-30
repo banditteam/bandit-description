@@ -54,12 +54,12 @@ Open an Issue to discuss your proposal, then submit a Pull Request with your imp
 
 **[Bandit Robotics](https://github.com/banditteam/bandit-robotics)** — Simulation, expressive control and robotics development.
 
-**[Bandit Mechanical Design](https://github.com/banditteam/bandit-mechanical-design)** — Editable Blender sources and mechanical customization.
+**[Bandit Design](https://github.com/banditteam/bandit-design)** — Editable Blender sources and mechanical customization.
+
+**[Bandit Simarena Integration](https://github.com/banditteam/bandit-simarena-integration)** — Advanced physics and locomotion simulation in SimArena.
 
 ## Current Status
 
-This is the initial reference robot description. Compatibility should be validated for each target simulator.
-
-Reusable controllers, autonomous locomotion and additional hardware variants are being developed separately.
+Reusable controllers, autonomous locomotion and additional hardware variants are rolling out gradually.
 
 **Build it. Move it. Make it yours.**
